@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hamza/Desktop/2CCPP FINAL/Nouveau dossier (3)/Project 2CCPP Supinfo Hotel Application/final_project.cpp
+iostream
+-
+string.h
+-
+fstream
+-
+
